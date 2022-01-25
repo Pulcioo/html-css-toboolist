@@ -48,7 +48,7 @@ main{
     border-radius: 10%;
 }
 
-ul,ol{
+ul{
     list-style: none;
 
 }
@@ -69,5 +69,63 @@ ul,ol{
     background-color: white;
     padding: 50px;
 
+}
+
+li{
+    display: inline;
+}
+
+.editorial{
+    font-size: 10px;
+    color: white;
+    background-color: rgb(0, 162, 255);
+    border: 1px solid rgb(0, 162, 255);
+    padding: 5px;
+    border-radius: 20%;
+}
+
+.goals{
+    font-size: 10px;
+    color: white;
+    background-color: rgb(180, 80, 180);
+    border: 1px solid rgb(180, 80, 180);
+    padding: 5px;
+    border-radius: 20%;
+}
+
+.recruiting{
+    font-size: 10px;
+    color: white;
+    background-color: rgb(116, 163, 137);
+    border: 1px solid rgb(116, 163, 137);
+    padding: 5px;
+    border-radius: 20%;
+}
+
+.mobile{
+    font-size: 10px;
+    color: white;
+    background-color: orange;
+    border: 1px solid orange;
+    padding: 5px;
+    border-radius: 20%;
+}
+
+.website{
+    font-size: 10px;
+    color: white;
+    background-color: violet;
+    border: 1px solid violet;
+    padding: 5px;
+    border-radius: 20%;
+}
+
+.sales{
+    font-size: 10px;
+    color: white;
+    background-color: rgb(161, 175, 30);
+    border: 1px solid rgb(161, 175, 30);
+    padding: 5px;
+    border-radius: 20%;
 }
 
