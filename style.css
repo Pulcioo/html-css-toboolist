@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+}
+
+#logo{
+    margin: 15px 10px 15px 30px;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
